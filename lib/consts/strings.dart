@@ -1,0 +1,63 @@
+import 'package:virtual_hospital_application/consts/images.dart';
+
+class AppStrings {
+  static String appname = "VirtualHospital",
+      bestDocapp ="Best Doctor\n Appointment App",
+      welcomeback = "Welcome Back!",
+      weAreExcited = "We're excited to have you back!",
+      signupNow = "Sign up now and start ",
+      signupNow1 = "exploring all that our app has to offer.",
+      email = "Email",
+      emailHint = "Enter your email...",
+      password = "password",
+      passwordHint = "Enter your password here...",
+      fullname = "Full Name",
+      welcome = "Welcome",
+      search = "Search doctor",
+      fullnameHint = "Enter your name here...",
+      confirmpassword = "Confirm Password",
+      forgetpassword = "Forget Password?",
+      category = "Category",
+      doctor = "Doctor Login",
+      settings ="Settings",
+      login ="Login",
+      signup ="Signup",
+      alreadyHaveAccount = "Account have an account?",
+      dontHaveAccount = "Don't have an account?",
+      body = "Body",
+      ear = "Ear",
+      liver = "Liver",
+      lungs = "Lungs",
+      heart= "Heart",
+      kidney = "Kidney",
+      changepassword = "Change PassWord",
+      termsConditions = "Terms & Conditions",
+      signout ="Signout",
+      eye = "Eye",
+      stomach = "Stomach",
+      tooth = "Tooth";
+}
+
+var iconList = [
+  AppAssets.icBody,
+  AppAssets.icEar,
+  AppAssets.icLiver,
+  AppAssets.icLungs,
+  AppAssets.icHeart,
+  AppAssets.icKidney,
+  AppAssets.icEye,
+  AppAssets.icStomach,
+  AppAssets.icTooth,
+];
+
+var iconsTitleList = [
+  AppStrings.body,
+  AppStrings.ear,
+  AppStrings.liver,
+  AppStrings.lungs,
+  AppStrings.heart,
+  AppStrings.kidney,
+  AppStrings.eye,
+  AppStrings.stomach,
+  AppStrings.tooth,
+];
