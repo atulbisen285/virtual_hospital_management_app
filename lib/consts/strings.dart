@@ -21,6 +21,7 @@ class AppStrings {
       doctor = "Doctor Login",
       settings ="Settings",
       login ="Login",
+      booking ="Book an Appointment",
       signup ="Signup",
       alreadyHaveAccount = "Account have an account?",
       dontHaveAccount = "Don't have an account?",

@@ -11,6 +11,8 @@ class AppAssets {
       imgLogin = "assets/images/img_login.png",
       imgSignup = "assets/images/img_signup.png",
       imgGoogle = "assets/images/google_logo.png",
-      imgFacebook = "assets/images/facebook_logo.png";
+      imgFacebook = "assets/images/facebook_logo.png",
+      imgUserLogin= "assets/images/doctors.png",
+      imgRegister= "assets/images/doc.jpg";
 
 }
