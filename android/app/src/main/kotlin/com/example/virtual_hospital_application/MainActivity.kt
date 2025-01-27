@@ -1,7 +1,6 @@
 package com.example.virtual_hospital_application
 
-class MainActivity: FlutterActivity()
+import io.flutter.embedding.android.FlutterActivity
 
-open class FlutterActivity {
-
+class MainActivity: FlutterActivity() {
 }
